@@ -139,4 +139,5 @@ To draw the phasor diagram for a different load step, change `k` (1–5) at the 
 
 ## Author
 
-**Md Istiauk Hossain Rifat**, BSc EEE (BRAC University), MEng ECE student at the University of Calgary.
+**Md Istiauk Hossain Rifat**, BSc EEE (BRAC University)
+
